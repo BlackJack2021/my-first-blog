@@ -26,7 +26,7 @@ SECRET_KEY = 'nyrm8994g3q018^5$!%3s068_dm#s)62kg*dz=et48@2=6cw3^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'blackjack2021.pythonanywhere.com'] 
+ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com','blackjack2021.pythonanywhere.com'] 
 
 
 # Application definition
